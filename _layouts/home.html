@@ -12,12 +12,10 @@
       {% include projects.html %}
     </div>
 
-    {% unless posts_total == 0 %}
-      <div class="my-6">
-        {% include thoughts.html %}
-      </div>
-    {% endunless %}
-    
+    <div class="my-6">
+      {% include thoughts.html %}
+    </div>
+        
     {% if site.topics %}
       <div class="my-6">
         {% include interests.html %}
