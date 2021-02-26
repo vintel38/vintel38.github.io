@@ -4,3 +4,5 @@ Ce répertoire rassemble l'ensemble des fichiers qui composent mon site internet
 
 ## License
 Ce répertoire est disponible en open-source conformément aux termes de la [MIT License](./LICENSE.txt)
+
+Lien de l'issue #128 qui permet de recompiler le répertoire website pour mettre à jour le site internet [lien](https://github.com/github/personal-website/issues/128#issuecomment-494150592)
