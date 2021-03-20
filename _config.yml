@@ -25,9 +25,9 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects:
+    projects: vintel38.github.io
     # - repo-name
-    vintel38.github.io
+    
 
 social_media:
   # behance: your_username
