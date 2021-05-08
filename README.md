@@ -5,4 +5,6 @@ Ce répertoire rassemble l'ensemble des fichiers qui composent mon site internet
 ## License
 Ce répertoire est disponible en open-source conformément aux termes de la [MIT License](./LICENSE.txt)
 
+La curiosité est le meilleur des défauts
+
 VA
