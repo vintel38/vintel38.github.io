@@ -25,8 +25,9 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects: vintel38.github.io
-    vintel38
+    projects: 
+    - vintel38.github.io
+    - vintel38
     # - repo-name
 
 social_media:
